@@ -19,6 +19,6 @@ const createUser = async (user: IUser): Promise<IUser | null> => {
   return createdUser
 }
 
-module.exports = {
+export default {
   createUser,
 }
