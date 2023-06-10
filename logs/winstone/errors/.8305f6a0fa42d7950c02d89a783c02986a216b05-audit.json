@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.8305f6a0fa42d7950c02d89a783c02986a216b05-audit.json",
-    "files": [
-        {
-            "date": 1686407557663,
-            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\campusCura-2023-10-06-20-error.log",
-            "hash": "558c9a2389363fb914080cfb32bc3652ecf8e8ee218357a3f20c0d5fda8b46e0"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.8305f6a0fa42d7950c02d89a783c02986a216b05-audit.json",
+  "files": [
+    {
+      "date": 1686407557663,
+      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\campusCura-2023-10-06-20-error.log",
+      "hash": "558c9a2389363fb914080cfb32bc3652ecf8e8ee218357a3f20c0d5fda8b46e0"
+    }
+  ],
+  "hashType": "sha256"
 }

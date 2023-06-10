@@ -1,4 +1,4 @@
-import express, { Application, Request, Response } from 'express'
+import express, { Application, NextFunction, Request, Response } from 'express'
 import cors from 'cors'
 const app: Application = express()
 import userRouter from './app/modules/user/user.route'
@@ -14,8 +14,16 @@ app.use(express.urlencoded({ extended: true }))
 app.use('/api/v1/users', userRouter)
 
 // for testing
-app.get('/', (req: Request, res: Response) => {
-  res.send('working succesfully')
+app.get('/', (req: Request, res: Response, next: NextFunction) => {
+  //  throw new apiError(400,"error hoyece")
+  next('error kaice')
 })
+
+// global error handeler
+
+// app.use((err,req: Request, res: Response,next:NextFunction)=>{
+//   console.log(err);
+// }
+// )
 
 export default app
