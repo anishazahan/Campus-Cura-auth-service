@@ -1,0 +1,42 @@
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-10T14:32:38.770Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-10T14:32:38.798Z'
+}
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-10T14:33:52.429Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-10T14:33:52.447Z'
+}
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-10T14:33:56.000Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-10T14:33:56.021Z'
+}

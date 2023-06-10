@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.61f9af4d4a55181212918aa297e5c917a2ca6f05-audit.json",
+    "files": [
+        {
+            "date": 1686407627685,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\c-2023-10-06-20-error.log",
+            "hash": "09adaef6be7de781997a36530cd2cc9dc12143a87257d520b71e029bbc4dabc0"
+        }
+    ],
+    "hashType": "sha256"
+}
