@@ -1,25 +1,25 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.ed43c62e9469c2e15b6ed6f75a30e6cf901ee532-audit.json",
+  "files": [
+    {
+      "date": 1686407634432,
+      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-20-error.log",
+      "hash": "e8354f54a7fc91fdef1a56cc1d696eff1c1a39530a8cd02f566c4b03d4b08a13"
     },
-    "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.ed43c62e9469c2e15b6ed6f75a30e6cf901ee532-audit.json",
-    "files": [
-        {
-            "date": 1686407634432,
-            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-20-error.log",
-            "hash": "e8354f54a7fc91fdef1a56cc1d696eff1c1a39530a8cd02f566c4b03d4b08a13"
-        },
-        {
-            "date": 1686413669919,
-            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-22-error.log",
-            "hash": "cbce5300e5ba26b77f7367f4a1cdc889378b03c93c50c2f0ced1ec04a311e163"
-        },
-        {
-            "date": 1686417226835,
-            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-23-error.log",
-            "hash": "fe6121b993b1a26e7703bf752c71bb5df230ac94384014e24694c4b4f72614f8"
-        }
-    ],
-    "hashType": "sha256"
+    {
+      "date": 1686413669919,
+      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-22-error.log",
+      "hash": "cbce5300e5ba26b77f7367f4a1cdc889378b03c93c50c2f0ced1ec04a311e163"
+    },
+    {
+      "date": 1686417226835,
+      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-23-error.log",
+      "hash": "fe6121b993b1a26e7703bf752c71bb5df230ac94384014e24694c4b4f72614f8"
+    }
+  ],
+  "hashType": "sha256"
 }
