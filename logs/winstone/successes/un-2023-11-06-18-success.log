@@ -68,3 +68,17 @@
   label: 'campusCura',
   timestamp: '2023-06-11T12:03:32.064Z'
 }
+{
+  message: 'Database Connected Successfully',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-11T12:04:06.430Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  service: 'user-service',
+  label: 'campusCura',
+  timestamp: '2023-06-11T12:04:06.450Z'
+}

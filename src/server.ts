@@ -4,6 +4,11 @@ import config from './Config/index'
 import { logger, errorlogger } from './shared/logger'
 import { Server } from 'http'
 
+process.on('uncaughtException', error => {
+  errorlogger.error(error)
+  process.exit(1)
+})
+
 let server: Server
 
 async function dbConnected() {
@@ -31,5 +36,12 @@ async function dbConnected() {
 }
 
 dbConnected()
+
+process.on('SIGTERM', () => {
+  logger.info('SIGTERM is received')
+  if (server) {
+    server.close()
+  }
+})
 
 //   campusCura-auth-admin ,7JkFRBhivPXV3qr5
