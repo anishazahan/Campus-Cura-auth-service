@@ -53,37 +53,37 @@ const getSingleSemester = catchAsync(async (req: Request, res: Response) => {
   });
 });
 
-// const updateSemester = catchAsync(async (req: Request, res: Response) => {
-//   const id = req.params.id;
-//   const updatedData = req.body;
+const updateSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
+  const updatedData = req.body;
 
-//   const result = await AcademicSemesterService.updateSemester(id, updatedData);
+  const result = await AcademicSemesterService.updateSemester(id, updatedData);
 
-//   sendResponse<IAcademicSemester>(res, {
-//     statusCode: httpStatus.OK,
-//     success: true,
-//     message: 'Semester updated successfully !',
-//     data: result,
-//   });
-// });
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester updated successfully !',
+    data: result,
+  });
+});
 
-// const deleteSemester = catchAsync(async (req: Request, res: Response) => {
-//   const id = req.params.id;
+const deleteSemester = catchAsync(async (req: Request, res: Response) => {
+  const id = req.params.id;
 
-//   const result = await AcademicSemesterService.deleteSemester(id);
+  const result = await AcademicSemesterService.deleteSemester(id);
 
-//   sendResponse<IAcademicSemester>(res, {
-//     statusCode: httpStatus.OK,
-//     success: true,
-//     message: 'Semester deleted successfully !',
-//     data: result,
-//   });
-// });
+  sendResponse<IAcademicSemester>(res, {
+    statusCode: httpStatus.OK,
+    success: true,
+    message: 'Semester deleted successfully !',
+    data: result,
+  });
+});
 
 export const AcademicSemesterController = {
   createSemester,
   getAllSemesters,
   getSingleSemester,
-  // updateSemester,
-  // deleteSemester,
+  updateSemester,
+  deleteSemester,
 };

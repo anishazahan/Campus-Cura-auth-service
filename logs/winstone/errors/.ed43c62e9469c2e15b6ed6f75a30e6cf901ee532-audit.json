@@ -1,65 +1,80 @@
 {
-  "keep": {
-    "days": true,
-    "amount": 14
-  },
-  "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.ed43c62e9469c2e15b6ed6f75a30e6cf901ee532-audit.json",
-  "files": [
-    {
-      "date": 1686407634432,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-20-error.log",
-      "hash": "e8354f54a7fc91fdef1a56cc1d696eff1c1a39530a8cd02f566c4b03d4b08a13"
+    "keep": {
+        "days": true,
+        "amount": 14
     },
-    {
-      "date": 1686413669919,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-22-error.log",
-      "hash": "cbce5300e5ba26b77f7367f4a1cdc889378b03c93c50c2f0ced1ec04a311e163"
-    },
-    {
-      "date": 1686417226835,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-23-error.log",
-      "hash": "fe6121b993b1a26e7703bf752c71bb5df230ac94384014e24694c4b4f72614f8"
-    },
-    {
-      "date": 1686483580868,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-11-06-17-error.log",
-      "hash": "1193931050c4dd8d462046ffbf39f8563f0c0fac1ed124cbace62afebcf97275"
-    },
-    {
-      "date": 1686484820861,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-11-06-18-error.log",
-      "hash": "282a9b7f2a4f54f2f25dc40b6a1a20a1b15844969b7de21b9d8df4c0a533d701"
-    },
-    {
-      "date": 1686761546797,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-14-06-22-error.log",
-      "hash": "fb2770e4c51efd6aaf98ab0277beb6b4e0bc5d9c03fb1eb6cb0aa1834e7bad95"
-    },
-    {
-      "date": 1686831876160,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-15-06-18-error.log",
-      "hash": "e6ba02b1108f56132b78d6daf972428d8cfaced6df13d2449433c9fa1d292748"
-    },
-    {
-      "date": 1686853627887,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-00-error.log",
-      "hash": "08ad45861bb0c4201f4d19db635b11457cacf21c5ecc0cc5229d974c5177abf1"
-    },
-    {
-      "date": 1686855689163,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-01-error.log",
-      "hash": "7f86f07d438980fddcd3bb43b3dc05794f293ca5c6396f892c331e5bb5b858bd"
-    },
-    {
-      "date": 1686885593715,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-09-error.log",
-      "hash": "7a454511154d2a9c28bc3ffe5c09edc809c4c3b334732f1adb0310b9db62525d"
-    },
-    {
-      "date": 1686893582715,
-      "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-11-error.log",
-      "hash": "831d86c623f07ba217196eb9588dee3e91f3deda8071cdea22257b3651638cca"
-    }
-  ],
-  "hashType": "sha256"
+    "auditLog": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\.ed43c62e9469c2e15b6ed6f75a30e6cf901ee532-audit.json",
+    "files": [
+        {
+            "date": 1686407634432,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-20-error.log",
+            "hash": "e8354f54a7fc91fdef1a56cc1d696eff1c1a39530a8cd02f566c4b03d4b08a13"
+        },
+        {
+            "date": 1686413669919,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-22-error.log",
+            "hash": "cbce5300e5ba26b77f7367f4a1cdc889378b03c93c50c2f0ced1ec04a311e163"
+        },
+        {
+            "date": 1686417226835,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-10-06-23-error.log",
+            "hash": "fe6121b993b1a26e7703bf752c71bb5df230ac94384014e24694c4b4f72614f8"
+        },
+        {
+            "date": 1686483580868,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-11-06-17-error.log",
+            "hash": "1193931050c4dd8d462046ffbf39f8563f0c0fac1ed124cbace62afebcf97275"
+        },
+        {
+            "date": 1686484820861,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-11-06-18-error.log",
+            "hash": "282a9b7f2a4f54f2f25dc40b6a1a20a1b15844969b7de21b9d8df4c0a533d701"
+        },
+        {
+            "date": 1686761546797,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-14-06-22-error.log",
+            "hash": "fb2770e4c51efd6aaf98ab0277beb6b4e0bc5d9c03fb1eb6cb0aa1834e7bad95"
+        },
+        {
+            "date": 1686831876160,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-15-06-18-error.log",
+            "hash": "e6ba02b1108f56132b78d6daf972428d8cfaced6df13d2449433c9fa1d292748"
+        },
+        {
+            "date": 1686853627887,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-00-error.log",
+            "hash": "08ad45861bb0c4201f4d19db635b11457cacf21c5ecc0cc5229d974c5177abf1"
+        },
+        {
+            "date": 1686855689163,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-01-error.log",
+            "hash": "7f86f07d438980fddcd3bb43b3dc05794f293ca5c6396f892c331e5bb5b858bd"
+        },
+        {
+            "date": 1686885593715,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-09-error.log",
+            "hash": "7a454511154d2a9c28bc3ffe5c09edc809c4c3b334732f1adb0310b9db62525d"
+        },
+        {
+            "date": 1686893582715,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-11-error.log",
+            "hash": "831d86c623f07ba217196eb9588dee3e91f3deda8071cdea22257b3651638cca"
+        },
+        {
+            "date": 1686895263735,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-12-error.log",
+            "hash": "8ab0fe29ee0c52002ca7e10b47330a437c98dd9b5a8ecd622afd625f7cb23c20"
+        },
+        {
+            "date": 1686905134883,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-14-error.log",
+            "hash": "394ab200f20c74bf230bf4b263b1098637bcbe7cb10efb5eedd26b8d92c15b38"
+        },
+        {
+            "date": 1686908338562,
+            "name": "F:\\next-level-Project\\Univercity-management-websites\\backend\\univercity-management-auth-service\\logs\\winstone\\errors\\un-2023-16-06-15-error.log",
+            "hash": "56fb460272a9bcb551d1057ab4fe94c27cfcdb247499716536c1dd9af69e7813"
+        }
+    ],
+    "hashType": "sha256"
 }
