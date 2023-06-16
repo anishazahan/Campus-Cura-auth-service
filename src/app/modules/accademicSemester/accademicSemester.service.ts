@@ -82,12 +82,12 @@ const getAllsemesters = async (
   };
 };
 
-// const getSingleSemester = async (
-//   id: string
-// ): Promise<IAcademicSemester | null> => {
-//   const result = await AcademicSemester.findById(id);
-//   return result;
-// };
+const getSingleSemester = async (
+  id: string
+): Promise<IAcademicSemester | null> => {
+  const result = await AcademicSemester.findById(id);
+  return result;
+};
 
 // const updateSemester = async (
 //   id: string,
@@ -117,7 +117,7 @@ const getAllsemesters = async (
 export const AcademicSemesterService = {
   createSemester,
   getAllsemesters,
-  //   getSingleSemester,
+  getSingleSemester,
   //   updateSemester,
   //   deleteSemester,
 };
